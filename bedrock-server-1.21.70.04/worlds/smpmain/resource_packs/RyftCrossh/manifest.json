@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Some clean new crosshairs!",
+        "name": "Ryft Crosshair Pack",
+        "uuid": "16ee2add-8275-4f0c-b9b1-078b6db977d5",
+        "version": [1, 0, 2],
+        "min_engine_version": [1, 12, 1]
+    },
+    "modules": [
+        {
+            "description": "HyperRyft",
+            "type": "resources",
+            "uuid": "bc944b37-4c25-4143-9dcd-e609b3da6d89",
+            "version": [1, 0, 2]
+        }
+    ],
+	"subpacks":	[
+			{"folder_name":"3","memory_tier":1,"name":"Crosshair: Heart"},
+			{"folder_name":"2","memory_tier":1,"name":"Crosshair: Dot"},
+			{"folder_name":"1","memory_tier":1,"name":"Crosshair: Basic"}
+	]
+}

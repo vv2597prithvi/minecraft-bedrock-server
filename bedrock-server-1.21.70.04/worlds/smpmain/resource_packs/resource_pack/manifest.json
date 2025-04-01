@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§o§7Made by §r§l§aAsh_Brd",
+        "name": "§l§dHeart §r§7Cherry Doors",
+        "uuid": "4adc5966-61ad-465b-8f76-c298769bbf1b",
+        "version": [1, 0, 1],
+        "min_engine_version": [ 1, 20, 50 ]
+    },
+    "modules": [
+        {
+            "description": "§o§7Made by §r§l§aAsh_Brd",
+            "type": "resources",
+            "uuid": "28d655d8-449a-4f1a-9cc8-f5775e7a59b1",
+            "version": [1, 0, 1]
+        }
+    ]
+}
